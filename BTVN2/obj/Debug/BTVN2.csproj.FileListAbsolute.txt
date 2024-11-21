@@ -1,0 +1,7 @@
+C:\Users\lamch\source\repos\BTVN2\BTVN2\obj\Debug\BTVN2.csproj.AssemblyReference.cache
+C:\Users\lamch\source\repos\BTVN2\BTVN2\obj\Debug\BTVN2.csproj.CoreCompileInputs.cache
+C:\Users\lamch\source\repos\BTVN2\BTVN2\bin\Debug\BTVN2.exe.config
+C:\Users\lamch\source\repos\BTVN2\BTVN2\bin\Debug\BTVN2.exe
+C:\Users\lamch\source\repos\BTVN2\BTVN2\bin\Debug\BTVN2.pdb
+C:\Users\lamch\source\repos\BTVN2\BTVN2\obj\Debug\BTVN2.exe
+C:\Users\lamch\source\repos\BTVN2\BTVN2\obj\Debug\BTVN2.pdb
